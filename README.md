@@ -41,6 +41,9 @@ Detailed proof artifacts:
 
 - [Execution Evidence](EVIDENCE.md)
 - [Automated Test Matrix](TEST-MATRIX.md)
+- [Bug And Fix Log](BUG-FIX-LOG.md)
+- [Framework Map](FRAMEWORK-MAP.md)
+- [Resume Validation Pack](RESUME-VALIDATION.md)
 - [Interview Walkthrough](INTERVIEW-WALKTHROUGH.md)
 - [Source Code Protection Plan](source-code-protection.md)
 
