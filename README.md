@@ -1,10 +1,13 @@
 # COB Platform QA Automation Showcase
 
+Portfolio owner: Chandra Bhushan  
+GitHub: cbhushan80845
+
 ## Project Summary
 
 COB Platform is a full-stack local services marketplace application with customer, labour, provider, and admin workflows. I built a professional QA automation layer around the project to validate public routes, authentication pages, guest access, localization, marketplace search, filters, and responsive rendering.
 
-This showcase is designed for resume and LinkedIn sharing without exposing the private source code.
+This showcase is designed for resume and LinkedIn sharing without exposing the private source code. It includes proof-style QA artifacts, execution evidence, and an interview walkthrough so the work does not look like a generic copied summary.
 
 ## QA Automation Scope
 
@@ -33,6 +36,13 @@ This showcase is designed for resume and LinkedIn sharing without exposing the p
 | Selenium UI automation | 15 tests passed, 0 failures, 0 errors |
 | Backend Maven tests | Green |
 | Frontend smoke checks | Green |
+
+Detailed proof artifacts:
+
+- [Execution Evidence](EVIDENCE.md)
+- [Automated Test Matrix](TEST-MATRIX.md)
+- [Interview Walkthrough](INTERVIEW-WALKTHROUGH.md)
+- [Source Code Protection Plan](source-code-protection.md)
 
 ## Tools And Technologies
 
