@@ -1,7 +1,5 @@
 # Source Code Protection Plan
 
-Last updated: 2026-05-23
-
 ## Recommended Sharing Model
 
 Use one public portfolio link that contains only the project summary, QA approach, test coverage, screenshots, and execution results. Keep the real application and automation source code in a private repository.

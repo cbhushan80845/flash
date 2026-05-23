@@ -1,9 +1,5 @@
 # COB Platform QA Automation Showcase
 
-Portfolio owner: Chandra Bhushan  
-GitHub: cbhushan80845  
-Last updated: 2026-05-23
-
 ## Project Summary
 
 COB Platform is a full-stack local services marketplace application with customer, labour, provider, and admin workflows. I built a professional QA automation layer around the project to validate public routes, authentication pages, guest access, localization, marketplace search, filters, and responsive rendering.

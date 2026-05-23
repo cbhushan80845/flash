@@ -1,7 +1,5 @@
 # Framework Map
 
-Last updated: 2026-05-23
-
 This map explains the private QA automation framework without exposing source code.
 
 ## High-Level Structure

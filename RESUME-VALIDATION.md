@@ -1,7 +1,5 @@
 # Resume Validation Pack
 
-Last updated: 2026-05-23
-
 Use this page when a recruiter or interviewer asks, "How do I know you actually did this?"
 
 ## Claim 1

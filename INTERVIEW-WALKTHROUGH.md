@@ -1,7 +1,5 @@
 # Interview Walkthrough
 
-Last updated: 2026-05-23
-
 Use this page to explain the project in interviews without exposing the private source code.
 
 ## 30-Second Summary
