@@ -1,0 +1,2 @@
+This public showcase contains documentation only.
+The application and automation source code are intentionally private.
