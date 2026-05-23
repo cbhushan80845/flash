@@ -1,5 +1,11 @@
 # COB Platform QA Automation Showcase
 
+[![Java 17](https://img.shields.io/badge/Java-17-blue)](#tools-and-technologies)
+[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-brightgreen)](#tools-and-technologies)
+[![JUnit 5](https://img.shields.io/badge/JUnit-5-green)](#tools-and-technologies)
+[![Pattern](https://img.shields.io/badge/Pattern-Page%20Object%20Model-orange)](#qa-automation-scope)
+[![UI Tests](https://img.shields.io/badge/UI%20Tests-15%20Passing-success)](#latest-local-execution)
+
 ## Project Summary
 
 COB Platform is a full-stack local services marketplace application with customer, labour, provider, and admin workflows. I built a professional QA automation layer around the project to validate public routes, authentication pages, guest access, localization, marketplace search, filters, and responsive rendering.
@@ -37,9 +43,12 @@ This showcase is designed for resume and LinkedIn sharing without exposing the p
 Detailed proof artifacts:
 
 - [Execution Evidence](EVIDENCE.md)
+- [Test Execution Log](TEST-EXECUTION-LOG.md)
 - [Automated Test Matrix](TEST-MATRIX.md)
+- [QA Strategy](QA-STRATEGY.md)
 - [Bug And Fix Log](BUG-FIX-LOG.md)
 - [Framework Map](FRAMEWORK-MAP.md)
+- [Automation Architecture](ARCHITECTURE.md)
 - [Resume Validation Pack](RESUME-VALIDATION.md)
 - [Interview Walkthrough](INTERVIEW-WALKTHROUGH.md)
 - [Source Code Protection Plan](source-code-protection.md)
@@ -69,3 +78,9 @@ The source code is private, but the QA approach, coverage, and execution results
 ## Source Code Policy
 
 The complete source code is kept private to protect project ownership. Recruiters or interviewers can request a guided walkthrough, recorded demo, or limited read-only access if needed.
+
+## Suggested GitHub Profile Pin
+
+Pin this repository with the title:
+
+`COB Platform QA Automation Case Study`

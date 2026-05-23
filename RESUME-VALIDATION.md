@@ -9,8 +9,10 @@ Use this page when a recruiter or interviewer asks, "How do I know you actually 
 **Evidence in this repository:**
 
 - Framework map shows the automation layers.
+- Architecture diagrams show the runner-to-browser execution flow.
 - Test matrix shows 15 UI scenarios.
 - Execution evidence shows the passing run.
+- Test execution log shows class-wise pass results.
 - Bug/fix log shows problems found and resolved during automation.
 
 ## Claim 2
@@ -48,6 +50,10 @@ Use this page when a recruiter or interviewer asks, "How do I know you actually 
 
 - Source code protection plan explains what is public and what remains private.
 - This repo includes documentation artifacts only.
+
+## Recommended LinkedIn Featured Description
+
+Selenium/JUnit QA automation case study for a full-stack marketplace project. Includes test strategy, execution evidence, test matrix, framework architecture, bug/fix notes, and source-code-safe portfolio documentation.
 
 ## Interview Verification Questions I Can Answer
 

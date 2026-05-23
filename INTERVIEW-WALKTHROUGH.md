@@ -27,6 +27,7 @@ This is not a deployed demo link. It is a QA automation case study link. The sou
 - I added screenshot capture on failed tests to support debugging.
 - I kept public smoke tests separate from future authenticated booking flows.
 - I documented manual candidates for flows that need stable seeded accounts and backend state.
+- I kept source code private but created public-safe proof artifacts for resume and LinkedIn review.
 
 ## Honest Current Limitations
 
