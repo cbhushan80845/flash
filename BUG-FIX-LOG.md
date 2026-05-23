@@ -1,5 +1,7 @@
 # Bug And Fix Log
 
+Last updated: 2026-05-23
+
 This file records real testing problems found while building the automation suite. It is included to show hands-on QA thinking, not only final pass results.
 
 ## BF-001: Registration Role Switch Test Was Fragile

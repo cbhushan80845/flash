@@ -1,16 +1,8 @@
 # COB Platform QA Automation Showcase
 
 Portfolio owner: Chandra Bhushan  
-GitHub: cbhushan80845
-
-## Timeline
-
-| Period | Work |
-| --- | --- |
-| 2023 | Original project/repository started as a learning and portfolio project |
-| 2026 | QA automation framework, test documentation, execution evidence, and public-safe showcase were added/refined |
-
-This repository is intentionally honest about the timeline: the project foundation is older, while the QA automation evidence was prepared later as a focused portfolio update.
+GitHub: cbhushan80845  
+Last updated: 2026-05-23
 
 ## Project Summary
 
