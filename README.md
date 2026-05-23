@@ -3,6 +3,15 @@
 Portfolio owner: Chandra Bhushan  
 GitHub: cbhushan80845
 
+## Timeline
+
+| Period | Work |
+| --- | --- |
+| 2023 | Original project/repository started as a learning and portfolio project |
+| 2026 | QA automation framework, test documentation, execution evidence, and public-safe showcase were added/refined |
+
+This repository is intentionally honest about the timeline: the project foundation is older, while the QA automation evidence was prepared later as a focused portfolio update.
+
 ## Project Summary
 
 COB Platform is a full-stack local services marketplace application with customer, labour, provider, and admin workflows. I built a professional QA automation layer around the project to validate public routes, authentication pages, guest access, localization, marketplace search, filters, and responsive rendering.
