@@ -44,7 +44,7 @@ This showcase is designed for resume and LinkedIn sharing without exposing the p
 
 | Screenshot | Description |
 | --- | --- |
-| ![Local test summary](screenshots/test-run-passed.png) | Fresh local UI automation run summary |
+| ![Local test summary](screenshots/test-run-summary.png) | Fresh local UI automation run summary |
 | ![Public repository view](screenshots/github-showcase-repo.png) | Public showcase repository view |
 
 Detailed project artifacts:
