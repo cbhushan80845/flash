@@ -1,6 +1,6 @@
 # Test Execution Log
 
-This is a redacted execution summary from the local Selenium/JUnit run. Machine-specific paths and generated reports are intentionally excluded from the public repository.
+This is a short execution summary from the local Selenium/JUnit run. Machine-specific paths and generated reports are not included in the public repository.
 
 ## Command
 

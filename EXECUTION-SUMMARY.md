@@ -48,4 +48,4 @@ Chrome printed Selenium CDP version warnings for browser version 148. The warnin
 
 ## Why Source Is Not Included
 
-This public repository is intentionally documentation-only. The private project contains the actual application and automation source code. The purpose of this repo is to provide a safe resume and LinkedIn case study without exposing proprietary implementation.
+This public repository contains the case study documents only. The private project contains the application and automation source code.
