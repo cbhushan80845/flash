@@ -47,7 +47,7 @@ This document explains the testing approach used for the private COB Platform pr
 | Stability | Explicit waits for visible elements and dynamic copy |
 | Debugging | Screenshot capture on failed UI tests |
 | Repeatability | Local runner starts frontend and runs Maven/JUnit suite |
-| Evidence | Execution logs, test matrix, and bug/fix notes documented |
+| Documentation | Execution logs, test matrix, and bug/fix notes documented |
 
 ## Expansion Plan
 

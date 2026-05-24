@@ -66,5 +66,5 @@ mindmap
 - The runner makes local execution possible without deployment.
 - Page objects keep tests readable and easier to maintain.
 - Shared UI actions reduce repeated Selenium code.
-- Screenshot capture gives evidence when a failure occurs.
+- Screenshot capture supports failure analysis.
 - The public repository explains the framework without exposing private code.

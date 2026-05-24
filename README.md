@@ -10,7 +10,7 @@
 
 COB Platform is a full-stack local services marketplace application with customer, labour, provider, and admin workflows. I built a professional QA automation layer around the project to validate public routes, authentication pages, guest access, localization, marketplace search, filters, and responsive rendering.
 
-This showcase is designed for resume and LinkedIn sharing without exposing the private source code. It includes proof-style QA artifacts, execution evidence, and an interview walkthrough so the work does not look like a generic copied summary.
+This showcase is designed for resume and LinkedIn sharing without exposing the private source code. It includes QA artifacts, execution summaries, and an interview walkthrough so the work reads like a focused case study.
 
 ## QA Automation Scope
 
@@ -40,16 +40,23 @@ This showcase is designed for resume and LinkedIn sharing without exposing the p
 | Backend Maven tests | Green |
 | Frontend smoke checks | Green |
 
-Detailed proof artifacts:
+## Visual Summary
 
-- [Execution Evidence](EVIDENCE.md)
+| Screenshot | Description |
+| --- | --- |
+| ![Local test summary](screenshots/test-run-passed.png) | Fresh local UI automation run summary |
+| ![Public repository view](screenshots/github-showcase-repo.png) | Public showcase repository view |
+
+Detailed project artifacts:
+
+- [Execution Summary](EXECUTION-SUMMARY.md)
 - [Test Execution Log](TEST-EXECUTION-LOG.md)
 - [Automated Test Matrix](TEST-MATRIX.md)
 - [QA Strategy](QA-STRATEGY.md)
 - [Bug And Fix Log](BUG-FIX-LOG.md)
 - [Framework Map](FRAMEWORK-MAP.md)
 - [Automation Architecture](ARCHITECTURE.md)
-- [Resume Validation Pack](RESUME-VALIDATION.md)
+- [Resume Notes](RESUME-NOTES.md)
 - [Interview Walkthrough](INTERVIEW-WALKTHROUGH.md)
 - [Source Code Protection Plan](source-code-protection.md)
 

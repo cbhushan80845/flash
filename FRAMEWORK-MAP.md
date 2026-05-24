@@ -52,9 +52,9 @@ PowerShell runner
 | Page Object Model | Keeps selectors and page actions away from test assertions |
 | Reusable UI actions | Reduces repeated Selenium code and centralizes waits |
 | Base test class | Standardizes browser setup, base URL, viewport, and cleanup |
-| Screenshot extension | Gives debugging evidence when UI tests fail |
+| Screenshot extension | Supports debugging when UI tests fail |
 | Local runner | Lets the suite run without deployment |
-| Public showcase repo | Provides proof without exposing private source code |
+| Public showcase repo | Explains the project without exposing private source code |
 
 ## QA Engineering Decisions
 

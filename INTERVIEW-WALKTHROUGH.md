@@ -18,7 +18,7 @@ I built a Selenium WebDriver and JUnit 5 automation framework for a full-stack s
 
 ## Example Explanation For Recruiter
 
-This is not a deployed demo link. It is a QA automation case study link. The source code is private to prevent copying, but this public repo shows the test strategy, coverage matrix, execution evidence, and what I can explain live in an interview.
+This is not a deployed demo link. It is a QA automation case study link. The source code is private to prevent copying, but this public repo shows the test strategy, coverage matrix, execution summary, and what I can explain live in an interview.
 
 ## Technical Talking Points
 
@@ -27,7 +27,7 @@ This is not a deployed demo link. It is a QA automation case study link. The sou
 - I added screenshot capture on failed tests to support debugging.
 - I kept public smoke tests separate from future authenticated booking flows.
 - I documented manual candidates for flows that need stable seeded accounts and backend state.
-- I kept source code private but created public-safe proof artifacts for resume and LinkedIn review.
+- I kept source code private but created public-safe project artifacts for resume and LinkedIn review.
 
 ## Honest Current Limitations
 
@@ -37,4 +37,4 @@ This is not a deployed demo link. It is a QA automation case study link. The sou
 
 ## Resume Line
 
-QA Automation Portfolio: Selenium/JUnit marketplace testing framework with 15 passing UI tests, Page Object Model, failure screenshots, local runner, execution evidence, and documented regression plan.
+QA Automation Portfolio: Selenium/JUnit marketplace testing framework with 15 passing UI tests, Page Object Model, failure screenshots, local runner, execution summary, and documented regression plan.

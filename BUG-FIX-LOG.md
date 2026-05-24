@@ -42,9 +42,9 @@ This file records real testing problems found while building the automation suit
 | Area | Resume and LinkedIn sharing |
 | Type | Security and ownership |
 | Symptom | A normal public repository could expose source code and make the project easy to copy |
-| Root cause | Portfolio links often mix proof and implementation |
+| Root cause | Portfolio links often mix public documentation and implementation |
 | Fix | Created a separate documentation-only showcase repository with no app source code |
-| QA value | Shows project evidence while protecting implementation ownership |
+| QA value | Shows project scope while protecting implementation ownership |
 
 ## What This Demonstrates
 

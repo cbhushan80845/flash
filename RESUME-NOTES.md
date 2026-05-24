@@ -1,17 +1,17 @@
-# Resume Validation Pack
+# Resume Notes
 
-Use this page when a recruiter or interviewer asks, "How do I know you actually did this?"
+Use this page to discuss the project clearly during recruiter or interviewer conversations.
 
 ## Claim 1
 
 **Resume claim:** Built a Selenium/JUnit UI automation framework.
 
-**Evidence in this repository:**
+**Where this is shown:**
 
 - Framework map shows the automation layers.
 - Architecture diagrams show the runner-to-browser execution flow.
 - Test matrix shows 15 UI scenarios.
-- Execution evidence shows the passing run.
+- Execution summary shows the passing run.
 - Test execution log shows class-wise pass results.
 - Bug/fix log shows problems found and resolved during automation.
 
@@ -19,7 +19,7 @@ Use this page when a recruiter or interviewer asks, "How do I know you actually 
 
 **Resume claim:** Used Page Object Model.
 
-**Evidence in this repository:**
+**Where this is shown:**
 
 - Framework map lists separate page objects for auth, home, marketplace, shell, and address areas.
 - Interview walkthrough explains why selectors and test assertions were separated.
@@ -28,7 +28,7 @@ Use this page when a recruiter or interviewer asks, "How do I know you actually 
 
 **Resume claim:** Created maintainable automation utilities.
 
-**Evidence in this repository:**
+**Where this is shown:**
 
 - Framework map describes reusable UI actions, base test setup, and screenshot handling.
 - Bug/fix log shows a real role-switch stability issue fixed through page object design.
@@ -37,23 +37,23 @@ Use this page when a recruiter or interviewer asks, "How do I know you actually 
 
 **Resume claim:** Ran and documented automated regression results.
 
-**Evidence in this repository:**
+**Where this is shown:**
 
-- Execution evidence includes command, date, environment, runtime, and class-level result.
+- Execution summary includes command, environment, runtime, and class-level result.
 - Test matrix maps automated cases to risk areas.
 
 ## Claim 5
 
-**Resume claim:** Protected source code while sharing proof publicly.
+**Resume claim:** Protected source code while sharing a public case study.
 
-**Evidence in this repository:**
+**Where this is shown:**
 
 - Source code protection plan explains what is public and what remains private.
 - This repo includes documentation artifacts only.
 
 ## Recommended LinkedIn Featured Description
 
-Selenium/JUnit QA automation case study for a full-stack marketplace project. Includes test strategy, execution evidence, test matrix, framework architecture, bug/fix notes, and source-code-safe portfolio documentation.
+Selenium/JUnit QA automation case study for a full-stack marketplace project. Includes test strategy, execution summary, test matrix, framework architecture, bug/fix notes, and source-code-safe portfolio documentation.
 
 ## Interview Verification Questions I Can Answer
 
@@ -66,4 +66,4 @@ Selenium/JUnit QA automation case study for a full-stack marketplace project. In
 
 ## Strong Resume Version
 
-Built a private Selenium WebDriver and JUnit 5 automation framework for a services marketplace, using Page Object Model, reusable UI actions, screenshot-on-failure handling, and a local PowerShell runner. Automated 15 UI regression scenarios across smoke, auth, guest access, localization, marketplace search/filter, and responsive checks; documented execution evidence, bug/fix notes, and future regression candidates in a public-safe portfolio repository.
+Built a private Selenium WebDriver and JUnit 5 automation framework for a services marketplace, using Page Object Model, reusable UI actions, screenshot-on-failure handling, and a local PowerShell runner. Automated 15 UI regression scenarios across smoke, auth, guest access, localization, marketplace search/filter, and responsive checks; documented execution summary, bug/fix notes, and future regression candidates in a public-safe portfolio repository.

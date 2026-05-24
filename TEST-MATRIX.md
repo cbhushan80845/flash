@@ -1,6 +1,6 @@
 # Automated Test Matrix
 
-This matrix maps the automation work to user-facing risk areas. It is written as portfolio evidence without publishing the private source code.
+This matrix maps the automation work to user-facing risk areas without publishing the private source code.
 
 ## UI Automation Coverage
 
